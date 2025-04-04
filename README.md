@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Levian Amos
-- 👀 I’m interested in: Cybersecurity and data science
+- 👀 I’m interested in: Cybersecurity,IOT and data science
 - 🌱 I’m currently learning: Computer Science stressing on cybersecurity and data science.
 - 💞️ I’m looking to collaborate on: Making all viruses be as harmless as "I'm creep, catch me if you can" 
 - 📫 How to reach me: mozelkrypton@gmail.com
