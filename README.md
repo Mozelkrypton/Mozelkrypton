@@ -1,35 +1,46 @@
-<h1 align="center">Hello there, LEVIAN AMOS</h1>
-<h3 align="center">Cyber security and Blockchain developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozelkrypton&label=Profile%20views&color=0e75b6&style=flat" alt="mozelkrypton" /> </p>
+# Hey, I'm Levian 👋
 
-- 🔭 I’m currently working on [Bvote](bvote-voting.netlify.app)
+**Cybersecurity Researcher · Blockchain Developer · Nairobi, Kenya 🇰🇪**
 
-- 🌱 I’m currently learning Cybersecurity **TryHackMe level 6, 42 days streak**
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Level%206-red?style=flat&logo=tryhackme)](https://tryhackme.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=mozelkrypton&color=0e75b6&style=flat)](https://github.com/Mozelkrypton)
 
-- 👯 I’m collaborate on [minerai](https://minerai.space/)
+</div>
 
-- 🤝 I’m looking for help with **Studentnest/Sturent**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mozelkrypton](https://github.com/Mozelkrypton)
+- 🔭 Building [**Bvote**](https://bvote-voting.netlify.app) — blockchain voting for transparent African elections
+- 🔐 Purple team path — 43-day TryHackMe streak · Level 6
+- 🎙️ Teaching cybersecurity for Africa at **Ngao Digital**
+- 🌱 Currently deep in smart contract security and ethical hacking
+- 💬 Ask me about `IoT` `Decentralized Networks` `Cryptography` `Kali Linux`
+- 📫 mozelkrypton@proton.me
 
-- 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
+---
 
-- 💬 Ask me about **IOT,Decentralized networks and Cryptography**
+<h3>Tech & Tools</h3>
 
-- 📫 How to reach me **mozelkrypton@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/levian amos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levian amos" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/00900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="00900" height="30" width="40" /></a>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+**Also:** Solidity · Hardhat · Burp Suite · Metasploit · Nmap · Kali Linux
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozelkrypton&show_icons=true&locale=en&layout=compact" alt="mozelkrypton" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mozelkrypton&show_icons=true&locale=en" alt="mozelkrypton" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozelkrypton&" alt="mozelkrypton" /></p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mozelkrypton&show_icons=true&theme=dark&hide_border=true)](https://github.com/Mozelkrypton)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mozelkrypton&theme=dark&hide_border=true)](https://github.com/Mozelkrypton)
+
+*"Build secure. Build open. Build for Africa."*
+
+</div>
