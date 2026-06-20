@@ -2,7 +2,7 @@
 
 # Hey, I'm Levian 👋
 
-**Cybersecurity Researcher · Blockchain Developer · Nairobi, Kenya 🇰🇪**
+**Cybersecurity Developer· Blockchain Developer · Nairobi, Kenya 🇰🇪**
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Level%206-red?style=flat&logo=tryhackme)](https://tryhackme.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=mozelkrypton&color=0e75b6&style=flat)](https://github.com/Mozelkrypton)
@@ -12,8 +12,7 @@
 ---
 
 - 🔭 Building [**Bvote**](https://bvote-voting.netlify.app) — blockchain voting for transparent African elections
-- 🔐 Purple team path — 43-day TryHackMe streak · Level 6
-- 🎙️ Teaching cybersecurity for Africa at **Ngao Digital**
+- 🔐 Purple team path — Level 6
 - 🌱 Currently deep in smart contract security and ethical hacking
 - 💬 Ask me about `IoT` `Decentralized Networks` `Cryptography` `Kali Linux`
 - 📫 mozelkrypton@proton.me
