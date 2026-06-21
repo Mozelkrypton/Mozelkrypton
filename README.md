@@ -12,7 +12,7 @@
 ---
 
 - 🔭 Building [**Bvote**](https://bvote-voting.netlify.app) — blockchain voting for transparent African elections
-- 🔐 Purple team path — Level 6
+- 🔐 Purple team path
 - 🌱 Currently deep in smart contract security and ethical hacking
 - 💬 Ask me about `IoT` `Decentralized Networks` `Cryptography` `Kali Linux`
 - 📫 mozelkrypton@gmail.com
