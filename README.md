@@ -15,7 +15,7 @@
 - 🔐 Purple team path — Level 6
 - 🌱 Currently deep in smart contract security and ethical hacking
 - 💬 Ask me about `IoT` `Decentralized Networks` `Cryptography` `Kali Linux`
-- 📫 mozelkrypton@proton.me
+- 📫 mozelkrypton@gmail.com
 
 ---
 
