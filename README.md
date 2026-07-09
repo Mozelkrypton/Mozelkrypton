@@ -1,77 +1,35 @@
-<div align="center">
+<h1 align="center">Hello there, LEVIAN AMOS</h1>
+<h3 align="center">Cyber security and Blockchain developer</h3>
 
-# Hi, I'm Levian Amos 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozelkrypton&label=Profile%20views&color=0e75b6&style=flat" alt="mozelkrypton" /> </p>
 
-### Cybersecurity Researcher · Blockchain Developer · Nairobi, Kenya 🇰🇪
+- 🔭 I’m currently working on [Bvote](bvote-voting.netlify.app)
 
-<a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-Level%206-red?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-<a href="https://github.com/Mozelkrypton"><img src="https://komarev.com/ghpvc/?username=mozelkrypton&color=0e75b6&style=for-the-badge" /></a>
-<img src="https://img.shields.io/badge/Purple%20Team-In%20Progress-8A2BE2?style=for-the-badge" />
+- 🌱 I’m currently learning Cybersecurity **TryHackMe level 6, 42 days streak**
 
-</div>
+- 👯 I’m collaborate on [minerai](https://minerai.space/)
 
-<br>
+- 🤝 I’m looking for help with **Studentnest/Sturent**
 
-## 👤 About Me
+- 👨‍💻 All of my projects are available at [https://github.com/Mozelkrypton](https://github.com/Mozelkrypton)
 
-I'm a final-year Computer Science student at Zetech University (School of ICT, Media and Engineering), currently serving as **CISO at MinerAI** and building **Ngao Digital**, a cybersecurity education brand for African audiences. I like getting my hands dirty — shipping working systems over theorizing about them.
+- 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
 
-- 🔭 **Currently building:** [**BVote**](https://bvote-voting.netlify.app) — a full-stack blockchain voting dApp on Polygon, and **Mlife**, a cross-platform life-documentation app (React Native + Expo + Supabase)
-- 🔐 **Path:** Purple Team Security Engineering (eJPT → CEH → OSCP)
-- 🌱 **Currently deep in:** smart contract security, ethical hacking, and offensive/defensive tooling
-- 🤝 **Also involved in:** [Kallos Youth Empowerment](https://kallokye.netlify.app) — a Christ-centered nonprofit for youth aged 18–30
-- 💬 **Ask me about:** `Blockchain Security` `IoT` `Decentralized Networks` `Cryptography` `Kali Linux`
-- 📫 **Reach me:** mozelkrypton@gmail.com
+- 💬 Ask me about **IOT,Decentralized networks and Cryptography**
 
-<br>
+- 📫 How to reach me **mozelkrypton@gmail.com**
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[BVote](https://bvote-voting.netlify.app)** | Blockchain-enabled voting dApp for transparent African elections — deployed on Polygon Amoy Testnet with SHA-256 ID hashing and on-chain role verification | Solidity · ethers.js · Node.js/Express · JWT |
-| **[Mlife](https://github.com/Mozelkrypton/mlife)** | Cross-platform mobile app for life documentation, built to MVP | React Native · Expo · Supabase |
-| **MinerAI** | Space-themed decentralized mining game platform | Blockchain · Game Dev |
-| **[Kallos Youth Empowerment](https://kallokye.netlify.app)** | Nonprofit website for a youth ministry organization | Web / Netlify |
-| **Ngao Digital** | Cybersecurity education content brand for African audiences | YouTube · TikTok · Instagram |
-
-<br>
-
-## 🛠️ Tech & Tools
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" title="Solidity" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" title="Kali Linux" width="40" height="40"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/levian amos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levian amos" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/00900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="00900" height="30" width="40" /></a>
 </p>
 
-**Security tooling:** Burp Suite · Metasploit · Nmap · Wireshark · Elastic SIEM
-**Blockchain:** Solidity · Hardhat · ethers.js · The Graph Protocol
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozelkrypton&show_icons=true&locale=en&layout=compact" alt="mozelkrypton" /></p>
 
-## 📊 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mozelkrypton&show_icons=true&locale=en" alt="mozelkrypton" /></p>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mozelkrypton&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mozelkrypton&theme=dark&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozelkrypton&layout=compact&theme=dark&hide_border=true" width="49%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💭 *"Build secure. Build open. Build for Africa."*
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozelkrypton&" alt="mozelkrypton" /></p>
