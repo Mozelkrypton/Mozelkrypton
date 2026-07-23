@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 # <img src="https://raw.githubusercontent.com/Mozelkrypton/Mozelkrypton/main/github-banner-spiderman.png" width="100%" alt="Levian Amos - Cybersecurity & Blockchain Developer" />
 
 <h1 align="center">Hi there, I'm Levian Amos 👋</h1>
