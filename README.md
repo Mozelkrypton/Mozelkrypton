@@ -1,7 +1,6 @@
-![Uploading image.png…]()
 # <img src="https://raw.githubusercontent.com/Mozelkrypton/Mozelkrypton/main/github-banner-spiderman.png" width="100%" alt="Levian Amos - Cybersecurity & Blockchain Developer" />
 
-<h1 align="center">Hi there, I'm Levian Amos 👋</h1>
+<h1 size⬛align="center"> I Am Groot</h1>
 
 <p align="center">
   <strong>Cybersecurity Specialist</strong> &nbsp;|&nbsp; <strong>Blockchain Developer</strong> &nbsp;|&nbsp; <strong>IoT & Cryptography Enthusiast</strong>
@@ -23,7 +22,7 @@
 
 ## 🚀 About Me
 
-I'm a security-focused developer building at the intersection of **decentralized systems**, **cryptography**, and **cyber defense**. I enjoy breaking and fixing things, securing networks, and shipping blockchain applications that matter.
+I'm a security-focused developer building at the intersection of **decentralized systems**, **cryptography**, and **cyber defense**. I enjoy breaking and fixing things, securing networks and shipping blockchain applications that matter.
 
 - 🔭 Currently building **Bvote** — a decentralized voting platform: [bvote-voting.netlify.app](https://bvote-voting.netlify.app)
 - 🌱 Leveling up in **Cybersecurity** via TryHackMe (Level 6, 42-day streak)
@@ -72,16 +71,6 @@ I'm a security-focused developer building at the intersection of **decentralized
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozelkrypton&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
----
-
-## ✍️ Latest Articles
-
-<p align="center">
-  <a href="https://medium.com/">Read my latest thoughts on blockchain, security, and IoT on Medium</a>
-</p>
-
----
 
 <p align="center">
   <em>"Security is not a product, but a process."</em> — Bruce Schneier
