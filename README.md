@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Mozelkrypton/Mozelkrypton/main/github-banner-spiderman.png" width="100%" alt="Levian Amos - Cybersecurity & Blockchain Developer" />
 
-<h1 size⬛align="center"> I Am Groot</h1>
+<h1 size⬛ align="center"> I Am Groot</h1>
 
 <p align="center">
   <strong>Cybersecurity Specialist</strong> &nbsp;|&nbsp; <strong>Blockchain Developer</strong> &nbsp;|&nbsp; <strong>IoT & Cryptography Enthusiast</strong>
