@@ -24,9 +24,9 @@
 
 I'm a security-focused developer building at the intersection of **decentralized systems**, **cryptography**, and **cyber defense**. I enjoy breaking and fixing things, securing networks and shipping blockchain applications that matter.
 
-- 🔭 Currently building **Bvote** — a decentralized voting platform: [bvote-voting.netlify.app](https://bvote-voting.netlify.app)
-- 🌱 Leveling up in **Cybersecurity** via TryHackMe (Level 6, 42-day streak)
-- 👯 Collaborating on **MinerAI** — [minerai.space](https://minerai.space/)
+- 🔭 Currently building **Bvote** A decentralized voting platform: [bvote-voting.netlify.app](https://bvote-voting.netlify.app)
+- 🌱 Leveling up in **Cybersecurity** via TryHackMe
+- 👯 Collaborating on **MinerAI** [minerai.space](https://minerai.space/)
 - 🤝 Open to helping with **StudentNest / Sturent**
 - 💬 Ask me about **IoT, Decentralized Networks, and Cryptography**
 - 📫 Reach me: **mozelkrypton@gmail.com**
@@ -73,7 +73,8 @@ I'm a security-focused developer building at the intersection of **decentralized
 </p>
 
 <p align="center">
-  <em>"Security is not a product, but a process."</em> — Bruce Schneier
+  <em>"Security is not a product, but a process."</em> Bruce Schneier
+  <em> "I think there for I am</em> Have no Idea who said it but love it 😅
 </p>
 
 <p align="center">
