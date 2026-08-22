@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Mozelkrypton/Mozelkrypton/main/github-banner-spiderman.png" width="100%" alt="Cybersecurity & Blockchain Developer" />
+width="100%" alt="Cybersecurity & Blockchain Developer" />
 
 <h1 size⬛ align="center"> I Am Groot</h1>
 
@@ -75,8 +75,8 @@ I'm a security-focused developer building at the intersection of **decentralized
 <p align="center">
   <em>"Security is not a product, but a process."</em> Bruce Schneier
 </p>
-<p align="center>
-  <em> "I think there for I am</em> Have no Idea who said it but love it 😅
+<p align="center">
+  <em> "I think there for I am " </em> Have no Idea who said it but love it 😅
 </p>
 <p
   align="center">
