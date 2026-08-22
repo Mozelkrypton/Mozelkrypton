@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Mozelkrypton/Mozelkrypton/main/github-banner-spiderman.png" width="100%" alt="Levian Amos - Cybersecurity & Blockchain Developer" />
+# <img src="https://raw.githubusercontent.com/Mozelkrypton/Mozelkrypton/main/github-banner-spiderman.png" width="100%" alt="Cybersecurity & Blockchain Developer" />
 
 <h1 size⬛ align="center"> I Am Groot</h1>
 
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I'm a security-focused developer building at the intersection of **decentralized systems**, **cryptography**, and **cyber defense**. I enjoy breaking and fixing things, securing networks and shipping blockchain applications that matter.
+I'm a security-focused developer building at the intersection of **decentralized systems**, **Innovation**, and **cyber defense**. I enjoy breaking and fixing things, securing networks and shipping blockchain applications.
 
 - 🔭 Currently building **Bvote** A decentralized voting platform: [bvote-voting.netlify.app](https://bvote-voting.netlify.app)
 - 🌱 Leveling up in **Cybersecurity** via TryHackMe
@@ -74,9 +74,11 @@ I'm a security-focused developer building at the intersection of **decentralized
 
 <p align="center">
   <em>"Security is not a product, but a process."</em> Bruce Schneier
+</p>
+<p align="center>
   <em> "I think there for I am</em> Have no Idea who said it but love it 😅
 </p>
-
-<p align="center">
+<p
+  align="center">
   <img src="https://komarev.com/ghpvc/?username=Mozelkrypton&color=blue&style=flat-square" alt="Profile Views" />
 </p>
