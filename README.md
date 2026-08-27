@@ -59,16 +59,16 @@ I'm a security-focused developer building at the intersection of **decentralized
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mozelkrypton&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Levian's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mozelkrypton&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/streak?username=Mozelkrypton&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozelkrypton&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 
 <p align="center">
   <em>"Security is not a product, but a process."</em> Bruce Schneier
