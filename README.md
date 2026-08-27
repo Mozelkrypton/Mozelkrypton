@@ -62,9 +62,9 @@ I'm a security-focused developer building at the intersection of **decentralized
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mozelkrypton&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Levian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mozelkrypton&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/streak?username=Mozelkrypton&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Mozelkrypton&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozelkrypton&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
