@@ -1,5 +1,3 @@
-<width="100%" alt="Cybersecurity & Blockchain Developer" />
-
 <h1 size⬛ align="center"> I Am Groot</h1>
 
 <p align="center">
