@@ -1,4 +1,4 @@
-<h1 size⬛ align="center"> I Am Groot</h1>
+<h1 align="center">I Am Groot</h1>
 
 <p align="center">
   <strong>Cybersecurity Specialist</strong> &nbsp;|&nbsp; <strong>Blockchain Developer</strong> &nbsp;|&nbsp; <strong>IoT & Cryptography Enthusiast</strong>
@@ -20,11 +20,11 @@
 
 ## 🚀 About Me
 
-I'm a security-focused developer building at the intersection of **decentralized systems**, **Innovation**, and **cyber defense**. I enjoy breaking and fixing things, securing networks and shipping blockchain applications.
+I'm a security-focused developer building at the intersection of **decentralized systems**, **innovation**, and **cyber defense**. I enjoy breaking and fixing things, securing networks, and shipping blockchain applications.
 
-- 🔭 Currently building **Bvote** A decentralized voting platform: [bvote-voting.netlify.app](https://bvote-voting.netlify.app)
+- 🔭 Currently building **Bvote** — a decentralized voting platform: [bvote-voting.netlify.app](https://bvote-voting.netlify.app)
 - 🌱 Leveling up in **Cybersecurity** via TryHackMe
-- 👯 Collaborating on **MinerAI** [minerai.space](https://minerai.space/)
+- 👯 Collaborating on **MinerAI** — [minerai.space](https://minerai.space/)
 - 🤝 Open to helping with **StudentNest / Sturent**
 - 💬 Ask me about **IoT, Decentralized Networks, and Cryptography**
 - 📫 Reach me: **mozelkrypton@gmail.com**
@@ -59,24 +59,27 @@ I'm a security-focused developer building at the intersection of **decentralized
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mozelkrypton&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mozelkrypton&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozelkrypton&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Mozelkrypton&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozelkrypton&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+---
 
 <p align="center">
-  <em>"Security is not a product, but a process."</em> Bruce Schneier
+  <em>"Security is not a product, but a process."</em> — Bruce Schneier
 </p>
 <p align="center">
-  <em> "I think there for I am " </em> Have no Idea who said it but love it 😅
+  <em>"I think, therefore I am."</em> — attributed to Descartes
 </p>
-<p
-  align="center">
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mozelkrypton&color=blue&style=flat-square" alt="Profile Views" />
 </p>
