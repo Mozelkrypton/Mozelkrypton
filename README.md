@@ -20,13 +20,13 @@
 
 ## 🚀 About Me
 
-I'm a security-focused developer building at the intersection of **decentralized systems**, **innovation**, and **cyber defense**. I enjoy breaking and fixing things, securing networks, and shipping blockchain applications.
+I'm a security-focused developer building at the intersection of **decentralized systems**, **innovation** and **cyber defense**. I enjoy breaking and fixing things, securing networks and shipping blockchain applications.
 
-- 🔭 Currently building **Bvote** — a decentralized voting platform: [bvote-voting.netlify.app](https://bvote-voting.netlify.app)
+- 🔭 Currently building **Bvote** a decentralized voting platform: [bvote-voting.netlify.app](https://bvote-voting.netlify.app)
 - 🌱 Leveling up in **Cybersecurity** via TryHackMe
-- 👯 Collaborating on **MinerAI** — [minerai.space](https://minerai.space/)
+- 👯 Collaborating on **MinerAI** [minerai.space](https://minerai.space/)
 - 🤝 Open to helping with **StudentNest / Sturent**
-- 💬 Ask me about **IoT, Decentralized Networks, and Cryptography**
+- 💬 Ask me about **IoT, Decentralized Networks and Cryptography**
 - 📫 Reach me: **mozelkrypton@gmail.com**
 
 ---
@@ -74,10 +74,10 @@ I'm a security-focused developer building at the intersection of **decentralized
 ---
 
 <p align="center">
-  <em>"Security is not a product, but a process."</em> — Bruce Schneier
+  <em>"Security is not a product, but a process."</em> Bruce Schneier
 </p>
 <p align="center">
-  <em>"I think, therefore I am."</em> — attributed to Descartes
+  <em>"I think, therefore I am."</em> attributed to Descartes
 </p>
 
 <p align="center">
